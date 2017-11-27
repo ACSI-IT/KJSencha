@@ -19,7 +19,7 @@
     "require": {
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.*",
-        "doctrine/common": ">=2.3-dev,<2.5-dev",
+        "doctrine/common": "~2.5",
         "rwoverdijk/assetmanager": "1.*"
     },
     "autoload": {
