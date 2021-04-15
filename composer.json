@@ -24,7 +24,8 @@
     },
     "autoload": {
         "psr-0": {
-            "KJSencha\\": "src/"
+            "KJSencha\\": "src/",
+            "KJSenchaTest\\": "tests/"
         }
     }
 }
